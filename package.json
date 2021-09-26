@@ -1,0 +1,28 @@
+{
+  "name": "discord-bot-template",
+  "version": "1.0.0",
+  "description": "Discord Bot用のテンプレートです",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waki285/discord-bot-template.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "waki285",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/waki285/discord-bot-template/issues"
+  },
+  "homepage": "https://github.com/waki285/discord-bot-template#readme",
+  "dependencies": {
+    "discord.js": "^13.1.0"
+  },
+  "devDependencies": {
+    "node": "^16.9.1"
+  }
+}
